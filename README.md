@@ -15,51 +15,6 @@ This repository contains my solutions, notes, and progress tracking for the **St
 
 ---
 
-
----
-
-## ✅ Progress Tracker
-
-### Arrays
-
-* [ ] Set Matrix Zeroes
-* [ ] Pascal's Triangle
-* [ ] Next Permutation
-* [ ] Maximum Subarray
-* [ ] Sort Colors
-
-### Linked List
-
-* [ ] Reverse Linked List
-* [ ] Middle of Linked List
-* [ ] Merge Two Sorted Lists
-* [ ] Remove Nth Node From End
-
-### Binary Search
-
-* [ ] Search in Rotated Sorted Array
-* [ ] Median of Two Sorted Arrays
-
-### Trees
-
-* [ ] Inorder Traversal
-* [ ] Level Order Traversal
-* [ ] Maximum Depth of Binary Tree
-
-### Graphs
-
-* [ ] BFS Traversal
-* [ ] DFS Traversal
-* [ ] Number of Islands
-
-### Dynamic Programming
-
-* [ ] Fibonacci
-* [ ] Climbing Stairs
-* [ ] Longest Common Subsequence
-
----
-
 ## 💻 Languages Used
 
 * Java
