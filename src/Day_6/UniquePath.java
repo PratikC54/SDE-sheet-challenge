@@ -3,7 +3,7 @@ package Day_6;
 import java.util.Arrays;
 
 public class UniquePath {
-    public int uniquePaths(int m, int n) {
+    public static int uniquePaths(int m, int n) {
 
         int[] aboveRow = new int[n];
         Arrays.fill(aboveRow, 1);
@@ -20,7 +20,7 @@ public class UniquePath {
         return aboveRow[n - 1];
     }
 
-     void main(String[] args) {
+     public static void main(String[] args) {
         System.out.println(uniquePaths(3,7));
     }
 }
